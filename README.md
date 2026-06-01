@@ -1,1 +1,3 @@
 # Entregable
+
+en este codigo tengo las clases de estudiante, materia, persona, profesor y sistemaacademico. La clase persona hereda las propiedades de nombre, edad y apellido a estudiante y profesor, para almacenar los datos de la clase utilice arraylist para tener arreglos de forma dinamica cada clase cuenta con las propiedades que pidieron ser asignadas en la tarea, en la clase estudiante hice metodos para registrar y mostrar estudiantes, ya en el sistema academico cree metodos que almacenaban los datos en arraylist para poder luego asignar materias a estudiantes y registrarlas aparte de eso hice un metodo para buscar por matricula y por nombre del estudiante.
